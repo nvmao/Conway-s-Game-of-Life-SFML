@@ -1,0 +1,17 @@
+﻿  Main.cpp
+D:\Projects\Youtube Videos\Game of Life\GameOfLife\GameOfLife\GameOfLife.h(18,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Projects\Youtube Videos\Game of Life\GameOfLife\GameOfLife\GameOfLife.h(19,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Projects\Youtube Videos\Game of Life\GameOfLife\GameOfLife\GameOfLife.h(21,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Youtube Videos\Game of Life\GameOfLife\GameOfLife\GameOfLife.h(22,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Youtube Videos\Game of Life\GameOfLife\GameOfLife\GameOfLife.h(44,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Youtube Videos\Game of Life\GameOfLife\GameOfLife\GameOfLife.h(45,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Youtube Videos\Game of Life\GameOfLife\GameOfLife\Main.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOfLife.vcxproj -> D:\Projects\Youtube Videos\Game of Life\GameOfLife\x64\Debug\GameOfLife.exe
